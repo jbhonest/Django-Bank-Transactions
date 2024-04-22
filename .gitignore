@@ -1,5 +1,6 @@
 /db.sqlite3
 bank_transactions/local_settings.py
+bank_transactions/__pycache__
 venv
 transactions/__pycache__
 transactions/migrations/__pycache__
