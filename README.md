@@ -1,4 +1,4 @@
-# Bank Transactions Django Project
+# Django Bank Transactions
 
 This Django project is designed to store transaction details exported from a bank in an Excel file into a database.
 
